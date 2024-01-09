@@ -1,0 +1,19 @@
+1. Conscientização e Treinamento: Eduque os funcionários e usuários de maneira contínua sobre as ameaças de engenharia social. Incentive-os a identificar sinais de possíveis ataques, como solicitações incomuns de informações pessoais ou mensagens urgentes que pressionam por ação imediata.
+
+2. Verificação de Identidade: Implemente procedimentos rigorosos de verificação para autenticar a identidade de indivíduos. Isso é especialmente importante ao lidar com informações sensíveis ou solicitações de dados. Considere o uso de autenticação de dois fatores para adicionar uma camada extra de segurança.
+
+3. Políticas de Segurança da Informação: Desenvolva e aplique políticas claras de segurança da informação. Essas políticas devem abordar a manipulação adequada de dados e informações confidenciais e devem ser revisadas regularmente para garantir que permaneçam relevantes e atualizadas.
+
+4. Controle de Acesso: Restrinja o acesso a informações sensíveis. Garanta que apenas o pessoal autorizado tenha permissão para acessar dados críticos. O controle de acesso deve ser baseado no princípio do menor privilégio, o que significa que os usuários devem ter apenas os privilégios necessários para realizar suas tarefas.
+
+5. Segurança Física: Proteja fisicamente áreas e dispositivos que contenham informações sensíveis. Isso pode incluir a implementação de medidas como fechaduras de segurança, cartões de acesso e câmeras de segurança para evitar o acesso não autorizado.
+
+6. Comunicação Segura: Utilize métodos seguros de comunicação para compartilhar informações confidenciais. Evite canais não seguros, como e-mails não criptografados. Considere o uso de plataformas de comunicação criptografadas para proteger a integridade e a confidencialidade das informações.
+
+7. Monitoramento de Redes e Atividades: Implemente sistemas de monitoramento que identifiquem atividades suspeitas ou anormais. Isso permite a rápida detecção de possíveis ameaças e pode incluir o uso de software de detecção de intrusões e firewalls.
+
+8. Política de Senhas Fortes: Exija senhas robustas e promova a regularidade da atualização de senhas. As senhas devem ser complexas, incluindo uma combinação de letras, números e símbolos. Além disso, as senhas devem ser alteradas regularmente e não devem ser reutilizadas entre diferentes contas.
+
+9. Atualizações de Software: Mantenha todos os sistemas e software atualizados. As atualizações frequentemente corrigem vulnerabilidades conhecidas que poderiam ser exploradas em ataques de engenharia social. Portanto, é essencial instalar atualizações e patches de segurança assim que estiverem disponíveis.
+
+10. Simulações de Ataque: Realize testes de simulação de ataque de engenharia social para avaliar a resiliência da equipe. Esses testes podem ajudar a identificar áreas que precisam de melhorias na conscientização e resposta. Além disso, eles fornecem uma oportunidade valiosa para os funcionários praticarem suas habilidades de detecção e resposta a ameaças.
