@@ -2,15 +2,15 @@
 
 Olá, sou eu. Hoje, gostaria de falar sobre a importância de proteger nossos dados contra ataques de injeção SQL e engenharia social.
 
-## O que é Injeção SQL?
+ O que é Injeção SQL?
 
 A injeção SQL é uma técnica de ataque que pode destruir nosso banco de dados. É uma das técnicas mais comuns de ataque na web. Essas consultas podem ler, modificar e excluir dados do nosso banco de dados.
 
-## O que é Engenharia Social?
+ O que é Engenharia Social?
 
 A engenharia social é uma técnica empregada por criminosos virtuais para induzir usuários desavisados a enviar dados confidenciais, infectar seus computadores com malware ou abrir links para sites infectados¹. É uma forma de aplicar "hacking humano", explorando o erro da vítima ou vulnerabilidades².
 
-## Por que é Importante Proteger os Dados?
+ Por que é Importante Proteger os Dados?
 
 Os ataques de injeção SQL e engenharia social podem levar a consequências graves, como:
 
@@ -18,7 +18,7 @@ Os ataques de injeção SQL e engenharia social podem levar a consequências gra
 2. **Violação de Privacidade**: Os invasores podem acessar e divulgar informações confidenciais.
 3. **Perda de Controle**: Os invasores podem ganhar controle total sobre o nosso banco de dados.
 
-## Como Proteger os Dados?
+ Como Proteger os Dados?
 
 Existem várias maneiras de proteger nosso banco de dados contra ataques de injeção SQL e engenharia social:
 
@@ -28,7 +28,7 @@ Existem várias maneiras de proteger nosso banco de dados contra ataques de inje
 4. **Atualizações Regulares**: Devemos manter nosso sistema e software atualizados para proteger contra vulnerabilidades conhecidas.
 5. **Educação e Conscientização**: Devemos treinar e educar a nós mesmos e a nossa equipe sobre as táticas de engenharia social e como reconhecê-las².
 
-## Conclusão
+Conclusão
 
 A proteção contra ataques de injeção SQL e engenharia social é essencial para manter a integridade e a segurança dos nossos dados. Implementar as práticas recomendadas de segurança pode nos ajudar a proteger nosso banco de dados contra esses ataques. Lembre-se, a segurança dos dados deve ser uma prioridade em qualquer aplicação.
 
