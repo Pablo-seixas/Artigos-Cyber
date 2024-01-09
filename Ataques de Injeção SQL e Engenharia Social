@@ -1,4 +1,4 @@
-# A Importância de Proteger os Dados Contra Ataques de Injeção SQL e Engenharia Social
+ A Importância de Proteger os Dados Contra Ataques de Injeção SQL e Engenharia Social
 
 Olá, sou eu. Hoje, gostaria de falar sobre a importância de proteger nossos dados contra ataques de injeção SQL e engenharia social.
 
@@ -32,10 +32,4 @@ Existem várias maneiras de proteger nosso banco de dados contra ataques de inje
 
 A proteção contra ataques de injeção SQL e engenharia social é essencial para manter a integridade e a segurança dos nossos dados. Implementar as práticas recomendadas de segurança pode nos ajudar a proteger nosso banco de dados contra esses ataques. Lembre-se, a segurança dos dados deve ser uma prioridade em qualquer aplicação.
 
-Origem: conversa com o Bing, 09/01/2024
-(1) O que é engenharia social? | IBM. https://www.ibm.com/br-pt/topics/social-engineering.
-(2) Engenharia Social: O que é? Conceitos, Técnicas e Como Se Proteger.. https://gestaodesegurancaprivada.com.br/engenharia-social-o-que-e-conceitos/.
-(3) Engenharia social (ciência política) – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Engenharia_social_%28ci%C3%AAncia_pol%C3%ADtica%29.
-(4) O que é engenharia social? - Kaspersky. https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering.
-(5) Engenharia social: o que é, tipos e como se proteger | ESET. https://www.eset.com/br/artigos/engenharia-social/.
-(6) undefined. https://bing.com/search?q=.
+
